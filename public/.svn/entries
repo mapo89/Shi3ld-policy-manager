@@ -1,0 +1,49 @@
+10
+
+dir
+592
+svn+ssh://ivaglian@scm.gforge.inria.fr/svn/mobileacl/branches/prototype/shi3ld-policy-manager/tags/v2.0/public
+svn+ssh://ivaglian@scm.gforge.inria.fr/svn/mobileacl
+
+
+
+2013-09-03T16:19:04.839877Z
+592
+ivaglian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f770e1fb-5a0f-4d27-84be-009ec3ea7220
+
+bootstrap
+dir
+
+bootstrap-timepicker
+dir
+
+datepicker
+dir
+
+images
+dir
+
+javascripts
+dir
+
+sparql
+dir
+
+stylesheets
+dir
+
